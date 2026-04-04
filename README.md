@@ -12,7 +12,7 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 <!-- 🔭 I’m currently working on improving my frontend development skills --> 
 - 🌱 I’m currently learning Python, SQL, and Web Development  
 - 👯 I’m looking to collaborate on beginner-friendly web development projects  
-- 🤔 I’m looking for help with backend development and real-world applications  
+- 🤔 I’m looking for help with frontend development and real-world applications  
 - 💬 Ask me about HTML, CSS, JavaScript, and basic programming  
 - 📫 How to reach me: i.aditya.biswas@gmail.com  
 - 😄 Pronouns: He/Him  

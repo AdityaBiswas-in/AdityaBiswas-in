@@ -9,8 +9,7 @@
 I am a focused and disciplined developer working on building strong fundamentals in web development.  
 Currently pursuing **BCA** and continuously improving through hands-on practice and structured learning.
 
-- 🎯 Focus: Frontend Development  
-- 📚 Learning: Advanced JavaScript  
+- 🎯 Focus: Frontend Development   
 - ⚙️ Interest Areas: UI Design, Web Systems, Dashboards  
 
 ---

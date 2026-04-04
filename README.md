@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya
 
-<!--
-**AdityaBiswas-in/AdityaBiswas-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer | BCA Student**  
+📍 Kolkata, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a focused and disciplined developer working on building strong fundamentals in web development.  
+Currently pursuing **BCA** and continuously improving through hands-on practice and structured learning.
+
+- 🎯 Focus: Frontend Development  
+- 📚 Learning: Advanced JavaScript  
+- ⚙️ Interest Areas: UI Design, Web Systems, Dashboards  
+
+---
+
+- 🔭 I’m currently working on improving my frontend development skills  
+- 🌱 I’m currently learning Python, SQL, and Web Development  
+- 👯 I’m looking to collaborate on beginner-friendly web development projects  
+- 🤔 I’m looking for help with backend development and real-world applications  
+- 💬 Ask me about HTML, CSS, JavaScript, and basic programming  
+- 📫 How to reach me: i.aditya.biswas@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy turning simple ideas into working websites  
+

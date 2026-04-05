@@ -1,7 +1,15 @@
-# 👋 Hi, I'm Aditya
+<h1 align="center">🚀 Welcome to Aditya Biswas's Profile</h1>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=adityabiswas-in&label=Profile%20views&color=0e75b6&style=flat" alt="adityabiswas-in" /> </p>
 
-💻 **Web Developer | BCA Student**  
-📍 Kolkata, India  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Biswas;Web+Developer+%F0%9F%92%BB;BCA+Student+%F0%9F%8E%93;Kolkata+India+%F0%9F%93%8D" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
+
 
 ---
 
@@ -9,11 +17,12 @@
 I am a focused and disciplined developer working on building strong fundamentals in web development.  
 Currently pursuing **BCA** and continuously improving through hands-on practice and structured learning.
 
-<!-- 🔭 I’m currently working on improving my frontend development skills --> 
+<!-- - 🔭 I’m currently working on improving my frontend development skills --> 
 - 🌱 I’m currently learning Python, SQL, and Web Development  
 - 👯 I’m looking to collaborate on beginner-friendly web development projects  
 - 🤔 I’m looking for help with frontend development and real-world applications  
-- 💬 Ask me about HTML, CSS, JavaScript, and basic programming  
+- 💬 Ask me about HTML, CSS, JavaScript, and basic programming
+<!-- -  👨‍💻 All of my projects are available at [Aditya Biswas](Aditya Biswas) -->  
 - 📫 How to reach me: i.aditya.biswas@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy turning simple ideas into working websites  
@@ -40,3 +49,15 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 [![](https://visitcount.itsvg.in/api?id=AdityaBiswas-in&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+--- 
+<!-- ## 🔭 Contributions:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityabiswas-in&" alt="adityabiswas-in" /></p>
+
+-->
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Biswas&theme=react-dark&area=true&hide_border=true" />
+</p>

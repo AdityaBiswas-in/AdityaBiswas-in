@@ -22,7 +22,7 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 - 👯 I’m looking to collaborate on beginner-friendly web development projects  
 - 🤔 I’m looking for help with frontend development and real-world applications  
 - 💬 Ask me about HTML, CSS, JavaScript, and basic programming
-- 👨‍💻 All of my projects are available at [Portfolio](https://aditya-biswas-portfolio.netlify.app/) 
+- 👨‍💻 All of my projects are available at [Portfolio](https://adityabiswas-in.github.io/Developer-Portfolio) 
 - 📫 How to reach me: i.aditya.biswas@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy turning simple ideas into working websites  

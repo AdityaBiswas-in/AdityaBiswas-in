@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Welcome to Aditya Biswas's Profile</h1>
-<p align="Center"> <img src="https://komarev.com/ghpvc/?username=adityabiswas-in&label=Profile%20views&color=0e75b6&style=flat" alt="adityabiswas-in" /> </p>
+<!-- <p align="Center"> <img src="https://komarev.com/ghpvc/?username=adityabiswas-in&label=Profile%20views&color=0e75b6&style=flat" alt="adityabiswas-in" /> </p> -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">

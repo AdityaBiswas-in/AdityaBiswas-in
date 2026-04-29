@@ -31,3 +31,43 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 - 📫 How to reach me: i.aditya.biswas@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy turning simple ideas into working websites
+
+
+
+## 🌐 Socials:
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://instagram.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="mailto:iaditya.biswas@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://facebook.com/YOUR_USERNAME">
+  <img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://x.com/YOUR_USERNAME">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+  <img src="https://img.icons8.com/color/48/youtube-play.png" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://discord.gg/YOUR_SERVER">
+  <img src="https://img.icons8.com/color/48/discord--v2.png" height="45"/>
+</a>
+
+</p>

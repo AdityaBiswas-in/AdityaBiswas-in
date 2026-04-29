@@ -38,11 +38,11 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="(https://www.linkedin.com/in/iadityabiswas/)">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="(https://github.com/AdityaBiswas-in)">
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>&nbsp;&nbsp;
 

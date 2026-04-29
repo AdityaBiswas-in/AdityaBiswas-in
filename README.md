@@ -74,6 +74,7 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 
 
 ## 🛠️ Tech Stack
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
 </a>&nbsp;&nbsp;
@@ -100,7 +101,7 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 
 <a href="https://www.netlify.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=netlify" height="50"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
@@ -124,5 +125,5 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-</a>
+</a>&nbsp;&nbsp;
 </p>

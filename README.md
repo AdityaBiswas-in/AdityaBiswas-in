@@ -50,9 +50,9 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
   <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>&nbsp;&nbsp;
 
-<a href="mailto:iaditya.biswas@gmail.com">
+<!-- <a href="mailto:iaditya.biswas@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 
 <a href="https://www.facebook.com/profile.php?id=100070387002576">
   <img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
@@ -62,9 +62,9 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
   <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" height="45"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://www.youtube.com/">
+<!-- <a href="https://www.youtube.com/">
   <img src="https://img.icons8.com/color/48/youtube-play.png" height="45"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 
 <a href="https://discord.com/channels/@me">
   <img src="https://img.icons8.com/color/48/discord--v2.png" height="45"/>

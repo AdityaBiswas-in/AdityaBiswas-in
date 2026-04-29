@@ -71,3 +71,58 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 </a>
 
 </p>
+
+
+## 🛠️ Tech Stack
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+<img src="https://skillicons.dev/icons?i=c" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.netlify.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=netlify" height="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.canva.com/" target="_blank">
+<img src="https://img.icons8.com/color/48/canva.png" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.microsoft.com/microsoft-365/word" target="_blank">
+<img src="https://img.icons8.com/color/48/microsoft-word-2019.png" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank">
+<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" height="50"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</a>
+</p>

@@ -38,15 +38,15 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 
 <p align="left">
 
-<a href="(https://www.linkedin.com/in/iadityabiswas/)">
+<a href="https://www.linkedin.com/in/iadityabiswas/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>&nbsp;&nbsp;
 
-<a href="(https://github.com/AdityaBiswas-in)">
+<a href="https://github.com/AdityaBiswas-in">
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/adityabiswas_/">
   <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>&nbsp;&nbsp;
 
@@ -54,24 +54,23 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://facebook.com/YOUR_USERNAME">
+<a href="https://www.facebook.com/profile.php?id=100070387002576">
   <img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://x.com/YOUR_USERNAME">
+<a href="https://x.com/i_AdityaBiswas">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" height="45"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://youtube.com/@YOUR_CHANNEL">
+<a href="https://www.youtube.com/">
   <img src="https://img.icons8.com/color/48/youtube-play.png" height="45"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://discord.gg/YOUR_SERVER">
+<a href="https://discord.com/channels/@me">
   <img src="https://img.icons8.com/color/48/discord--v2.png" height="45"/>
 </a>
 
 </p>
-
 
 ## 🛠️ Tech Stack
 

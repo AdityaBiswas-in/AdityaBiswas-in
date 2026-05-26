@@ -72,7 +72,7 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 
 </p>
 
-## 🛠️ Tech Stack
+## 🛠️ Skills 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://skillicons.dev/icons?i=html" height="50"/>

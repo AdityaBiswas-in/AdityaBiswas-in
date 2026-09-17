@@ -125,6 +125,7 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 <!-- <a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </a>&nbsp;&nbsp; -->
+
 </p>
 
 

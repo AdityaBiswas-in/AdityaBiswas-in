@@ -72,7 +72,7 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 
 </p>
 
-## 🛠️ Tech Stack
+## 🛠️ Skills 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
@@ -122,7 +122,10 @@ Currently pursuing **BCA** and continuously improving through hands-on practice 
 <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" height="50"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://www.mysql.com/" target="_blank">
+<!-- <a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
+
 </p>
+
+

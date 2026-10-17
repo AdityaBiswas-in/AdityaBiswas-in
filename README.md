@@ -26,27 +26,38 @@
   </p>
 </div>
 
----
+<h3 align="center">💫 About Me</h3>
 
-### 💫 About Me
+<table border="0">
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Hey there! I'm Aditya Biswas 👋</h3>
+      <p>
+        I am a focused and driven <b>Software &amp; Web Developer</b> dedicated to building clean, intuitive, and responsive digital experiences. I thrive at the intersection of modern frontend engineering, backend logic, and user-centric design.
+      </p>
+      <p>
+        🔭 <b>Primary Focus:</b> Modern Web Architectures, Responsive UI &amp; Full-Stack Solutions<br/>
+        🚀 <b>Currently Building:</b> Interactive web applications, creative UI projects &amp; APIs<br/>
+        🌱 <b>Continuous Growth:</b> Deepening expertise in <b>JavaScript (ES6+)</b>, <b>TypeScript</b>, <b>React</b> &amp; <b>Python</b><br/>
+        🤝 <b>Open For:</b> Exciting web collaborations, open-source projects &amp; developer teams<br/>
+        ⚡ <b>Philosophy:</b> <i>"Good code is like good design — simple, purposeful, and seamless to experience."</i>
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation" />
+    </td>
+  </tr>
+</table>
 
-```yaml
-name: Aditya Biswas
-status: Active Developer & Continuous Learner
-role: Software Developer & Web Specialist
-passion: Turning innovative ideas into clean, functional code
-focus: Frontend Engineering, Modern JavaScript, Full-Stack Foundations
-interests: [Web Development, Python, Database Systems, Open Source]
-```
+<br/>
 
-- 💻 **Development Focus**: Dedicated to building intuitive, responsive, and performance-optimized web applications.
-- 🚀 **Currently Building**: Expanding hands-on web projects and strengthening frontend & backend capabilities.
-- 🎯 **Core Strengths**: Strong fundamentals in semantic markup, modern CSS layouts, and algorithmic logic.
-- 🌱 **Learning Curve**: Advancing my knowledge in **Python, SQL/MySQL, modern JavaScript, and software architecture**.
-- 🤝 **Collaboration**: Open to collaborating on exciting open-source initiatives and developer projects.
-- 👨‍💻 **Portfolio**: Discover all my highlighted works and interactive demos at **[adityabiswas-in.github.io/Developer-Portfolio](https://adityabiswas-in.github.io/Developer-Portfolio)**.
-- 📫 **Direct Contact**: Reach me directly at **[i.aditya.biswas@gmail.com](mailto:i.aditya.biswas@gmail.com)**.
-- ⚡ **Fun Fact**: _I believe good code is like good design — simple, purposeful, and seamless to experience._
+<div align="center">
+
+| 💼 Role | 🚀 Status | 🎯 Primary Stack | 📬 Direct Reach |
+| :---: | :---: | :---: | :---: |
+| **Software &amp; Web Developer** | **Building &amp; Learning** | **Frontend &amp; Full-Stack** | **[i.aditya.biswas@gmail.com](mailto:i.aditya.biswas@gmail.com)** |
+
+</div>
 
 ---
 

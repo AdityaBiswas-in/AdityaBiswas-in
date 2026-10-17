@@ -14,7 +14,7 @@
       <img src="https://views.igorkowalczyk.dev/api/badge/AdityaBiswas-in?style=flat&amp;color=00f7ff" alt="Profile Views"/>
     </a>
     &nbsp;
-    <a href="https://adityabiswas-in.github.io/Developer-Portfolio">
+    <a href="https://adityabiswas-in.github.io/AdityaBiswas_Portfolio">
       <img src="https://img.shields.io/badge/Live%20Portfolio-Visit-FF5722?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Live Portfolio"/>
     </a>
     &nbsp;

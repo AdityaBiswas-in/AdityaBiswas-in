@@ -63,15 +63,24 @@ interests: [Web Development, Python, Database Systems, Open Source]
       <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript (ES6+)</code> • <code>TypeScript</code> • <code>React.js</code>
     </td>
     <td align="center" width="50%" valign="top">
-      <h4>⚙️ Backend & Databases</h4>
+      <h4>⚙️ Backend & Programming</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,java,c,php,mysql&theme=dark" alt="Backend Skills" />
+        <img src="https://skillicons.dev/icons?i=python,java,c,php&theme=dark" alt="Backend Skills" />
       </a>
       <br/><br/>
-      <code>Python</code> • <code>Java</code> • <code>C</code> • <code>PHP</code> • <code>MySQL</code> • <code>DBMS</code>
+      <code>Python</code> • <code>Java</code> • <code>C</code> • <code>PHP</code>
     </td>
   </tr>
   <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>🗄️ Databases & Management</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="34" alt="MySQL" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/DBMS-Database_Management-4479A1?style=for-the-badge&logo=databricks&logoColor=white" height="34" alt="DBMS" />
+      </p>
+      <code>MySQL</code> • <code>Relational DBMS</code> • <code>SQL Queries</code>
+    </td>
     <td align="center" width="50%" valign="top">
       <h4>🚀 Cloud & Developer Tools</h4>
       <a href="https://skillicons.dev">
@@ -80,13 +89,18 @@ interests: [Web Development, Python, Database Systems, Open Source]
       <br/><br/>
       <code>Git</code> • <code>GitHub</code> • <code>VS Code</code> • <code>Vercel (v0)</code> • <code>Netlify</code> • <code>Render</code>
     </td>
-    <td align="center" width="50%" valign="top">
-      <h4>🎨 UI/UX & CS Fundamentals</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design" />
-      </a>
-      <br/><br/>
-      <code>Figma</code> • <code>Canva</code> • <code>DSA</code> • <code>Computer Architecture</code> • <code>Digital Electronics</code> • <code>MS Office</code>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" width="100%" valign="top">
+      <h4>🎨 UI/UX & Design Tools</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="36" alt="Figma" />
+        &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="34" alt="Canva" />
+        &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" height="34" alt="MS Office" />
+      </p>
+      <code>Figma</code> • <code>Canva</code> • <code>Microsoft Word</code> • <code>Microsoft Excel</code> • <code>Microsoft PowerPoint</code>
     </td>
   </tr>
 </table>

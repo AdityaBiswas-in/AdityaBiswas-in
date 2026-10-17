@@ -1,23 +1,25 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aditya%20Biswas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%E2%80%A2%20Aspiring%20Software%20Developer%20%E2%80%A2%20Web%20Craftsman&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Aditya Biswas Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Aditya%20Biswas&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Developer%20%E2%80%A2%20Web%20Craftsman%20%E2%80%A2%20Tech%20Enthusiast&amp;descFontSize=18&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="Aditya Biswas Header Banner"/>
+  
   <!-- Typing SVG Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=680&lines=👋+Greetings!+Welcome+to+my+GitHub+universe;🎓+BCA+Student+building+strong+CS+fundamentals;💻+Aspiring+Software+Developer+%26+Tech+Enthusiast;🚀+Crafting+responsive,+modern+web+experiences;🌱+Constantly+learning,+building,+and+evolving;⭐+Feel+free+to+explore+and+connect!" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Greetings%2C%20World!%20%F0%9F%91%8B;Aspiring%20Software%20Developer%20%F0%9F%92%BB;Focused%20on%20Modern%20Web%20Development%20%E2%9C%A8;Building%20Responsive%20%26%20Creative%20Websites%20%F0%9F%9A%80;Continuous%20Learner%20%26%20Tech%20Enthusiast%20%F0%9F%8C%B1;Welcome%20to%20my%20GitHub%20Profile!" alt="Typing Subtitle" />
   </a>
   <br/><br/>
+  
   <!-- Status & Info Badges -->
   <p>
-    <a href="https://komarev.com/ghpvc/?username=AdityaBiswas-in">
-      <img src="https://komarev.com/ghpvc/?username=AdityaBiswas-in&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
+    <a href="https://github.com/AdityaBiswas-in">
+      <img src="https://views.igorkowalczyk.dev/api/badge/AdityaBiswas-in?style=flat&amp;color=00f7ff" alt="Profile Views"/>
     </a>
     &nbsp;
     <a href="https://adityabiswas-in.github.io/Developer-Portfolio">
-      <img src="https://img.shields.io/badge/Live%20Portfolio-Visit-FF5722?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Portfolio"/>
+      <img src="https://img.shields.io/badge/Live%20Portfolio-Visit-FF5722?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Live Portfolio"/>
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/iadityabiswas/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Connect"/>
     </a>
     &nbsp;
     <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-2ea44f?style=flat-square" alt="Status Open"/>
@@ -30,18 +32,18 @@
 
 ```yaml
 name: Aditya Biswas
-status: Pursuing BCA (Bachelor of Computer Applications)
-role: Aspiring Software Developer & Web Developer
+status: Active Developer & Continuous Learner
+role: Software Developer & Web Specialist
 passion: Turning innovative ideas into clean, functional code
 focus: Frontend Engineering, Modern JavaScript, Full-Stack Foundations
 interests: [Web Development, Python, Database Systems, Open Source]
 ```
 
-- 🎓 **Academic Journey**: Pursuing a **Bachelor of Computer Applications (BCA)**, reinforcing strong CS core concepts.
 - 💻 **Development Focus**: Dedicated to building intuitive, responsive, and performance-optimized web applications.
 - 🚀 **Currently Building**: Expanding hands-on web projects and strengthening frontend & backend capabilities.
-- 🌱 **Learning Curve**: Advancing my knowledge in **Python, SQL/MySQL, modern JavaScript, and software design**.
-- 🤝 **Collaboration**: Open to collaborating on exciting beginner-friendly open-source initiatives and developer projects.
+- 🎯 **Core Strengths**: Strong fundamentals in semantic markup, modern CSS layouts, and algorithmic logic.
+- 🌱 **Learning Curve**: Advancing my knowledge in **Python, SQL/MySQL, modern JavaScript, and software architecture**.
+- 🤝 **Collaboration**: Open to collaborating on exciting open-source initiatives and developer projects.
 - 👨‍💻 **Portfolio**: Discover all my highlighted works and interactive demos at **[adityabiswas-in.github.io/Developer-Portfolio](https://adityabiswas-in.github.io/Developer-Portfolio)**.
 - 📫 **Direct Contact**: Reach me directly at **[i.aditya.biswas@gmail.com](mailto:i.aditya.biswas@gmail.com)**.
 - ⚡ **Fun Fact**: _I believe good code is like good design — simple, purposeful, and seamless to experience._
@@ -163,4 +165,3 @@ interests: [Web Development, Python, Database Systems, Open Source]
   <!-- Footer Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
-S

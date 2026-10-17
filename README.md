@@ -164,37 +164,37 @@
 
 ---
 
-### 🤝 Connect & Socials
+<h3 align="center">🤝 Connect &amp; Socials</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/iadityabiswas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://adityabiswas-in.github.io/Developer-Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.icons8.com/color/48/domain--v1.png" height="42" alt="Portfolio" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/AdityaBiswas-in" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://x.com/i_AdityaBiswas" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.icons8.com/color/48/twitterx--v1.png" height="42" alt="X (Twitter)" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/adityabiswas_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:i.aditya.biswas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
   </a>
-</div>
+</p>
 
 <br/>
 

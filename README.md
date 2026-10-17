@@ -107,22 +107,17 @@ interests: [Web Development, Python, Database Systems, Open Source]
 
 ---
 
-### 📊 GitHub Activity & Metrics
+<h3 align="center">📊 GitHub Activity &amp; Metrics</h3>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=AdityaBiswas-in&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" alt="Aditya's GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBiswas-in&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdityaBiswas-in&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F7FF&amp;icon_color=00F7FF&amp;text_color=c9d1d9" height="180" alt="Aditya's GitHub Stats" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBiswas-in&amp;layout=compact&amp;hide=dart,tex&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F7FF&amp;text_color=c9d1d9" height="180" alt="Top Languages" />
+  </p>
   <br/>
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaBiswas-in&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaBiswas-in&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00F7FF&amp;fire=00F7FF&amp;currStreakLabel=00F7FF&amp;sideLabels=c9d1d9&amp;dates=8b949e" height="180" alt="GitHub Streak" />
 </div>
 
 ---

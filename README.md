@@ -171,7 +171,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://adityabiswas-in.github.io/AdityaBiswas_Portfolio/" target="_blank">
+  <a href="https://adityabiswas-in.github.io/AdityaBiswas_Portfolio" target="_blank">
     <img src="https://img.icons8.com/color/48/domain--v1.png" height="42" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;

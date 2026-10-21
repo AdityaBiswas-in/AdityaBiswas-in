@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Aditya%20Biswas&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Developer%20%E2%80%A2%20Web%20Craftsman%20%E2%80%A2%20Tech%20Enthusiast&amp;descFontSize=18&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="Aditya Biswas Header Banner"/>
+  <img src="./assets/banner.svg" width="100%" alt="Aditya Biswas Header Banner"/>
   
   <!-- Typing SVG Subtitle -->
   <a href="https://git.io/typing-svg">
@@ -202,6 +202,6 @@
   "First, solve the problem. Then, write the code." — John Johnson
   <br/>
 
-  <!-- Footer Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <!-- Footer Banner -->
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner"/>
 </div>

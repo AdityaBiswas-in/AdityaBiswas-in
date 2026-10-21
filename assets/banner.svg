@@ -1,0 +1,411 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A12"/>
+      <stop offset="50%" stop-color="#0B0F19"/>
+      <stop offset="100%" stop-color="#04060A"/>
+    </linearGradient>
+
+    <!-- Animated Ambient Radial Glows -->
+    <radialGradient id="glowCyan" cx="22%" cy="30%" r="55%">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0.28"/>
+      <stop offset="50%" stop-color="#00F7FF" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    
+    <radialGradient id="glowViolet" cx="80%" cy="65%" r="55%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.25"/>
+      <stop offset="55%" stop-color="#6366F1" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Diagonal Shimmer Beam -->
+    <linearGradient id="shimmerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#00F7FF" stop-opacity="0.03"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="55%" stop-color="#8B5CF6" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Border Laser Beam Gradient -->
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <!-- Title Gradient -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#F0FDFF"/>
+      <stop offset="100%" stop-color="#00F7FF"/>
+    </linearGradient>
+
+    <!-- Glowing Accent Line Gradient -->
+    <linearGradient id="accentLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#00F7FF"/>
+      <stop offset="80%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Glassmorphic Card Fill -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.35"/>
+    </linearGradient>
+
+    <!-- Base Subtle Border Stroke -->
+    <linearGradient id="borderBaseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0.35"/>
+      <stop offset="35%" stop-color="#1E293B" stop-opacity="0.5"/>
+      <stop offset="70%" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00F7FF" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#1E293B" stroke-width="0.75" stroke-opacity="0.4"/>
+      <circle cx="36" cy="0" r="0.9" fill="#00F7FF" fill-opacity="0.35"/>
+    </pattern>
+
+    <!-- Filters -->
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="intenseGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12" result="blur1" />
+      <feGaussianBlur stdDeviation="4" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif; }
+
+    /* Keyframe Animations */
+    
+    /* 1. Neon Border Tracer Light Running Along Edge */
+    @keyframes borderRun {
+      0% {
+        stroke-dashoffset: 0;
+      }
+      100% {
+        stroke-dashoffset: -3040;
+      }
+    }
+    .laser-border {
+      stroke-dasharray: 220 2820;
+      animation: borderRun 7s linear infinite;
+    }
+
+    /* 2. Shimmer Light Sweep */
+    @keyframes shimmerSweep {
+      0% {
+        transform: translateX(-1200px) skewX(-25deg);
+      }
+      50%, 100% {
+        transform: translateX(1400px) skewX(-25deg);
+      }
+    }
+    .shimmer-beam {
+      animation: shimmerSweep 6s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+
+    /* 3. Aura Breathing Glows */
+    @keyframes auraBreathe {
+      0%, 100% {
+        opacity: 0.8;
+        transform: scale(1);
+      }
+      50% {
+        opacity: 0.45;
+        transform: scale(1.08);
+      }
+    }
+    .aura-cyan {
+      transform-origin: 22% 30%;
+      animation: auraBreathe 5s ease-in-out infinite alternate;
+    }
+    .aura-violet {
+      transform-origin: 80% 65%;
+      animation: auraBreathe 6s ease-in-out infinite alternate-reverse;
+    }
+
+    /* 4. Live Pulse on System Dot */
+    @keyframes radarPing {
+      0% {
+        r: 4;
+        opacity: 0.9;
+      }
+      70% {
+        r: 12;
+        opacity: 0;
+      }
+      100% {
+        r: 12;
+        opacity: 0;
+      }
+    }
+    .radar-wave {
+      animation: radarPing 2.2s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+      transform-origin: center;
+    }
+
+    /* 5. Title Ambient Pulse */
+    @keyframes titlePulse {
+      0%, 100% {
+        opacity: 0.3;
+        transform: scale(1);
+      }
+      50% {
+        opacity: 0.65;
+        transform: scale(1.012);
+      }
+    }
+    .title-glow-layer {
+      transform-origin: 600px 138px;
+      animation: titlePulse 4s ease-in-out infinite;
+    }
+
+    /* 6. Center Pulse Orb */
+    @keyframes orbPulse {
+      0%, 100% {
+        transform: scale(1);
+        opacity: 0.9;
+      }
+      50% {
+        transform: scale(1.5);
+        opacity: 0.4;
+      }
+    }
+    .pulse-orb {
+      transform-origin: 600px 168px;
+      animation: orbPulse 2.5s ease-in-out infinite;
+    }
+
+    /* 7. Floating Left Code Icon */
+    @keyframes floatLeft {
+      0%, 100% {
+        transform: translateY(0px) rotate(0deg);
+      }
+      50% {
+        transform: translateY(-8px) rotate(-1.5deg);
+      }
+    }
+    .floating-code {
+      animation: floatLeft 4s ease-in-out infinite;
+    }
+
+    /* 8. Constellation Rotation / Spin */
+    @keyframes spinConstellation {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+    .rotating-constellation {
+      transform-origin: 1070px 160px;
+      animation: spinConstellation 28s linear infinite;
+    }
+
+    /* 9. Floating Skill Badges (Staggered) */
+    @keyframes badgeFloatA {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-4px); }
+    }
+    @keyframes badgeFloatB {
+      0%, 100% { transform: translateY(-4px); }
+      50% { transform: translateY(0px); }
+    }
+    @keyframes badgeFloatC {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+    }
+    .badge-a { animation: badgeFloatA 3.8s ease-in-out infinite; }
+    .badge-b { animation: badgeFloatB 4.2s ease-in-out infinite 0.5s; }
+    .badge-c { animation: badgeFloatC 4s ease-in-out infinite 1s; }
+
+    /* 10. Star Twinkle */
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.3; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.3); }
+    }
+    .twinkle-star-1 {
+      transform-origin: 190px 80px;
+      animation: twinkle 3s ease-in-out infinite;
+    }
+    .twinkle-star-2 {
+      transform-origin: 980px 90px;
+      animation: twinkle 3.5s ease-in-out infinite 1.2s;
+    }
+    .twinkle-star-3 {
+      transform-origin: 600px 305px;
+      animation: twinkle 2.8s ease-in-out infinite 0.6s;
+    }
+  </style>
+
+  <!-- Base Canvas -->
+  <rect width="1200" height="340" rx="20" fill="url(#bgGrad)"/>
+  
+  <!-- Subtle Tech Grid -->
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+
+  <!-- Animated Ambient Glows -->
+  <g class="aura-cyan">
+    <rect width="1200" height="340" rx="20" fill="url(#glowCyan)"/>
+  </g>
+  <g class="aura-violet">
+    <rect width="1200" height="340" rx="20" fill="url(#glowViolet)"/>
+  </g>
+
+  <!-- Shimmer Beam Overlay -->
+  <g clip-path="url(#cardClip)">
+    <clipPath id="cardClip">
+      <rect width="1200" height="340" rx="20"/>
+    </clipPath>
+    <rect x="0" y="-50" width="300" height="440" fill="url(#shimmerGrad)" class="shimmer-beam"/>
+  </g>
+
+  <!-- Static Base Border -->
+  <rect x="1.5" y="1.5" width="1197" height="337" rx="19" fill="none" stroke="url(#borderBaseGrad)" stroke-width="1.6"/>
+
+  <!-- Live Animated Laser Border Tracer -->
+  <rect x="1.5" y="1.5" width="1197" height="337" rx="19" fill="none" stroke="url(#laserGrad)" stroke-width="2.5" class="laser-border" filter="url(#intenseGlow)"/>
+
+  <!-- Cyber Corner Accents -->
+  <g opacity="0.85">
+    <path d="M 26 50 L 26 26 L 50 26" fill="none" stroke="#00F7FF" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="M 1174 50 L 1174 26 L 1150 26" fill="none" stroke="#00F7FF" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="M 26 290 L 26 314 L 50 314" fill="none" stroke="#8B5CF6" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="M 1174 290 L 1174 314 L 1150 314" fill="none" stroke="#8B5CF6" stroke-width="2.8" stroke-linecap="round"/>
+  </g>
+
+  <!-- Twinkling Micro Stars / Crosses -->
+  <g class="twinkle-star-1">
+    <path d="M 190 75 L 190 85 M 185 80 L 195 80" stroke="#00F7FF" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+  <g class="twinkle-star-2">
+    <path d="M 980 85 L 980 95 M 975 90 L 985 90" stroke="#A78BFA" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+  <g class="twinkle-star-3">
+    <circle cx="600" cy="308" r="1.5" fill="#00F7FF"/>
+  </g>
+
+  <!-- Top Status Badge: SYSTEM.ONLINE // DEV with Live Ping Radar -->
+  <g transform="translate(600, 50)">
+    <rect x="-135" y="-14" width="270" height="28" rx="14" fill="#090E19" stroke="#1E293B" stroke-width="1.4"/>
+    
+    <!-- Radar ping wave -->
+    <circle cx="-110" cy="0" r="4" fill="none" stroke="#10B981" stroke-width="1.5" class="radar-wave"/>
+    <!-- Center solid green beacon -->
+    <circle cx="-110" cy="0" r="4.2" fill="#10B981"/>
+    
+    <text x="-93" y="4.5" fill="#94A3B8" class="mono" font-size="11.5" font-weight="600" letter-spacing="1.5">SYSTEM.ONLINE // DEV</text>
+  </g>
+
+  <!-- Left Side Floating Tech Code Glyph -->
+  <g class="floating-code">
+    <g transform="translate(135, 162)">
+      <!-- Outer glowing halo -->
+      <circle cx="0" cy="0" r="38" fill="#00F7FF" fill-opacity="0.04" filter="url(#softGlow)"/>
+      <circle cx="0" cy="0" r="32" fill="#090E19" stroke="#1E293B" stroke-width="1.2"/>
+      
+      <!-- Styled Terminal Angle Brackets -->
+      <path d="M -12 -14 L -2 0 L -12 14" fill="none" stroke="#00F7FF" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="2" y1="14" x2="16" y2="14" stroke="#8B5CF6" stroke-width="2.8" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Right Side Rotating Constellation Network -->
+  <g class="rotating-constellation">
+    <g transform="translate(1070, 160)">
+      <line x1="-32" y1="-22" x2="8" y2="-40" stroke="#334155" stroke-width="1.4"/>
+      <line x1="8" y1="-40" x2="32" y2="12" stroke="#334155" stroke-width="1.4"/>
+      <line x1="32" y1="12" x2="-8" y2="36" stroke="#334155" stroke-width="1.4"/>
+      <line x1="-8" y1="36" x2="-32" y2="-22" stroke="#334155" stroke-width="1.4"/>
+      <line x1="-32" y1="-22" x2="32" y2="12" stroke="#334155" stroke-width="1" stroke-dasharray="3 3"/>
+
+      <circle cx="-32" cy="-22" r="4" fill="#00F7FF" filter="url(#softGlow)"/>
+      <circle cx="8" cy="-40" r="4.5" fill="#8B5CF6" filter="url(#softGlow)"/>
+      <circle cx="32" cy="12" r="3.5" fill="#38BDF8"/>
+      <circle cx="-8" cy="36" r="4" fill="#00F7FF"/>
+      <circle cx="0" cy="0" r="2.5" fill="#FFFFFF"/>
+    </g>
+  </g>
+
+  <!-- Center Content: Main Name Heading with Ambient Glow Pulse -->
+  <g class="title-glow-layer">
+    <text x="600" y="138" text-anchor="middle" class="sans" font-size="52" font-weight="900" letter-spacing="3" fill="#00F7FF" filter="url(#intenseGlow)">
+      ADITYA BISWAS
+    </text>
+  </g>
+  <g transform="translate(600, 138)">
+    <text x="0" y="0" text-anchor="middle" class="sans" font-size="52" font-weight="900" letter-spacing="3" fill="url(#titleGrad)">
+      ADITYA BISWAS
+    </text>
+  </g>
+
+  <!-- Modern Glowing Divider with Pulsing Orb -->
+  <g transform="translate(600, 168)">
+    <rect x="-240" y="-1.2" width="480" height="2.4" rx="1.2" fill="url(#accentLineGrad)"/>
+    <g class="pulse-orb">
+      <circle cx="0" cy="0" r="6" fill="#00F7FF" filter="url(#softGlow)"/>
+    </g>
+    <circle cx="0" cy="0" r="2.5" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Subtitle Tag Badges Container (Interactive Floating Glass Pills) -->
+  <g transform="translate(600, 222)">
+    
+    <!-- Tag 1: Software Developer -->
+    <g class="badge-a" transform="translate(-270, 0)">
+      <rect x="-115" y="-18" width="230" height="36" rx="18" fill="url(#cardGrad)" stroke="#38BDF8" stroke-opacity="0.45" stroke-width="1.2"/>
+      <!-- Icon -->
+      <path d="M -88 -6 L -96 0 L -88 6" fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M -78 -6 L -70 0 L -78 6" fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="-81" y1="7" x2="-85" y2="-7" stroke="#00F7FF" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="-60" y="5.5" class="sans" font-size="13.5" font-weight="600" fill="#F1F5F9" letter-spacing="0.5">Software Developer</text>
+    </g>
+
+    <!-- Tag 2: Web Craftsman -->
+    <g class="badge-b" transform="translate(0, 0)">
+      <rect x="-105" y="-18" width="210" height="36" rx="18" fill="url(#cardGrad)" stroke="#00F7FF" stroke-opacity="0.5" stroke-width="1.2"/>
+      <!-- Icon: Globe / Web -->
+      <circle cx="-75" cy="0" r="7.5" fill="none" stroke="#38BDF8" stroke-width="1.8"/>
+      <ellipse cx="-75" cy="0" rx="3.5" ry="7.5" fill="none" stroke="#38BDF8" stroke-width="1.4"/>
+      <line x1="-82.5" y1="0" x2="-67.5" y2="0" stroke="#38BDF8" stroke-width="1.4"/>
+      <text x="-54" y="5.5" class="sans" font-size="13.5" font-weight="600" fill="#FFFFFF" letter-spacing="0.5">Web Craftsman</text>
+    </g>
+
+    <!-- Tag 3: Tech Enthusiast -->
+    <g class="badge-c" transform="translate(265, 0)">
+      <rect x="-110" y="-18" width="220" height="36" rx="18" fill="url(#cardGrad)" stroke="#8B5CF6" stroke-opacity="0.5" stroke-width="1.2"/>
+      <!-- Icon: Rocket -->
+      <path d="M -80 6 L -80 -1 L -73 -7 L -67 -1 L -67 6 Z" fill="none" stroke="#A78BFA" stroke-width="1.6" stroke-linejoin="round"/>
+      <circle cx="-73.5" cy="-0.5" r="2" fill="#A78BFA"/>
+      <text x="-56" y="5.5" class="sans" font-size="13.5" font-weight="600" fill="#F1F5F9" letter-spacing="0.5">Tech Enthusiast</text>
+    </g>
+
+  </g>
+
+  <!-- Bottom Code-Inspired Micro-Status Bar -->
+  <g transform="translate(600, 288)">
+    <text x="0" y="0" text-anchor="middle" class="mono" font-size="12" fill="#64748B" letter-spacing="1">
+      <tspan fill="#00F7FF">&lt;</tspan>crafting scalable, intuitive &amp; high-performance web experiences<tspan fill="#00F7FF"> /&gt;</tspan>
+    </text>
+  </g>
+
+</svg>

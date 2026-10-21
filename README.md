@@ -198,10 +198,6 @@
 
 <br/>
 
-<div align="center">
-  "First, solve the problem. Then, write the code." — John Johnson
-  <br/>
-
   <!-- Footer Banner -->
   <img src="./assets/footer.svg" width="100%" alt="Footer Banner"/>
 </div>
